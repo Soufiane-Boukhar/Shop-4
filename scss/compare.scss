@@ -1,6 +1,6 @@
 /**
  * Herbalist
- * Herbalist – is a website template created for selling the cannabis, medical marijuana and CBD products, cannabis blogging and others
+ * Herbalist – is a website template created for selling the cannabis, medical Productand CBD products, cannabis blogging and others
  * Exclusively on https://1.envato.market/herbalist-html
  *
  * @encoding        UTF-8
